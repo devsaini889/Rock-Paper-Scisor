@@ -1,9 +1,7 @@
 # Rock-Paper-Scisor
 <!DOCTYPE html>
 <html>
-<head>
-   
-</head>
+
 <body>
     <p>Rock, Paper, Scissors is a classic hand game typically played between two people. Each player simultaneously forms one of three shapes with an outstretched hand:</p>
     <ul>
